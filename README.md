@@ -27,7 +27,7 @@ In this paper, we develop a novel deep neural network-based MLC model named TCFA
 | loss_functions.py | loss functions used to train models                                                      |
 | evaluation.py     | evaluation metrics (for evaluating prediction results)                                   |
 | dataset           | data                                                                                     |
-| result            | Models and results preserved during training.                                            |
+| result            | models and results preserved during training.                                            |
 | Figs              | Saved figures                                                                            |
 
 
